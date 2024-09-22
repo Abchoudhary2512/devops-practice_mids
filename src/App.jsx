@@ -20,6 +20,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
+      <h1>new change i want to made</h1>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
